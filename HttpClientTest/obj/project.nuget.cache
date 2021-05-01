@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVtAMOIp/lt6jamEZweO1xzOeP+Hgc6ijj+DWLfCS52fpWKzk4vmlJEM2WiCJ1+kjuTNIc0P3IUfbtd/QAnPXw==",
+  "success": true,
+  "projectFilePath": "F:\\Documentos\\_CODIGOS\\HttpClientTest\\HttpClientTest\\HttpClientTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
